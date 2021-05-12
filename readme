@@ -1,0 +1,12 @@
+With the rapid growth of surveillance cameras to monitor the human activity demands such
+system which recognize the violence and suspicious events automatically. Abnormal and violence action
+detection has become an active research area of computer vision and image processing to attract new
+researchers. The relevant literature presents different techniques for detection of such activities from the
+video proposed in the recent years. This paper reviews various state-of-the-art techniques of violence detec-
+tion. In this paper, the methods of detection are divided into three categories that is based on classification
+techniques used: violence detection using traditional machine learning, using support vector machine (SVM),
+and using deep learning. The feature extraction techniques and object detection techniques of the each
+single method are also presented. Moreover, datasets and video features that used in the techniques, which
+play a vital role in recognition process are also discussed. For better understanding, the steps of the
+research approaches have been presented in an architecture diagram. The overall research findings have
+been discussed which may be helpful for finding the potential future work in this research domain.
